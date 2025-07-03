@@ -13,6 +13,23 @@ This is an ongoing data analysis project combining SQL for data transformation a
 🔄 Power BI dashboard under construction  
 
 ---
+## 🔧 Work Completed So Far
 
-## 📁 Planned Project Structure
+- **Data Preparation**:
+  - Converted date and time fields from text to proper formats using SQL (`STR_TO_DATE`).
+- **Sales Analysis Queries**:
+  - Total sales per month
+  - Total items sold per month
+  - Month-over-month revenue and order growth
+  - Daily sales and order summaries
+  - Weekend vs. weekday sales breakdown
+  - Sales by store location
+- **Growth Analysis**:
+  - Calculated percentage growth in sales, orders, and quantity across selected months.
+    
+## 🛠️ Tools & Technologies
+
+- **SQL** – MySQL for data transformation and aggregation  
+- **Power BI** – Data visualization and dashboard creation  
+- **Version Control** – Git/GitHub  
 
